@@ -1,12 +1,4 @@
-### Singh, Bhanu Pratap  22201990
-
-### Galani, Rohit   22209032
-
-
 # TechBros Car Price Predictor
-
-[Link to MyGit repository](https://mygit.th-deg.de/techbros/techbroscars.git)
-
 
 # Project Description
 The "TechBros Car Price Predictor" is a PyQt6-based desktop application designed to help users predict the price of a car based on various input parameters and visualize the relationships between different car attributes and their impact on prices. The tool utilizes machine learning algorithms, specifically a Decision Tree Regressor, to predict car prices and displays the results through interactive graphs
@@ -115,18 +107,4 @@ Overview of the implementation of the methods used in this GUI window class :
    - Draws the updated plots to reflect the changes interactively.
 
 These methods collectively implement the functionality required for data loading, preprocessing, machine learning model training, user input handling, and real-time data visualization in the PyQt6 application.
-
-# Work done
-
-## Bhanu Pratap Singh : (22201990)
-
-1) Graphical User Interface
-2) Pandas with Numpy
-3) General Python Programming
-
-## Rohit Galani : (22209032)
-
-1) Visualization
-2) Scikit-Learn
-3) General Python Programming
 
